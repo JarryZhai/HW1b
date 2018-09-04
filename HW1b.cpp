@@ -35,4 +35,5 @@ int main() {
         n++;
     }
     cout<<"when n=1000000, r= "<<r<<endl;
+
 }
